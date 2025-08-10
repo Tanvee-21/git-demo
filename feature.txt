@@ -1,1 +1,1 @@
-Some new feature
+This is a demo feature from GitNewBranch
